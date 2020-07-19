@@ -11,4 +11,4 @@ If you notice any solution that can be improved or you have an exercise you woul
 _Please don't copy solution online. Make sure you understand what you write._
 
 ## Todo
-Add tests
+Add tests, so we can run through `cargo test`
